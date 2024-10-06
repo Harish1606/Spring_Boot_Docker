@@ -28,7 +28,6 @@ The application exposes a simple endpoint that returns a welcome message.
 JDK 17+<br>
 Docker<br>
 Maven<br>
-Running the Application Locally
 
 **Clone the repository:**
 
@@ -102,6 +101,7 @@ The image is now available at Docker Hub under:
 https://hub.docker.com/r/your-username/spring-boot-dockerized-app
 
 <br>
+
 **Pull the image from Docker Hub:**
 
 docker pull your-username/spring-boot-dockerized-app:latest
